@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pyyaml
+chromadb
+sentence-transformers
+torch
+transformers
+unsloth
+datasets
+trl

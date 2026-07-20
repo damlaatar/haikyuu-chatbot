@@ -1,0 +1,22 @@
+---
+title: Wakatoshi Ushijima Personality
+type: personality
+subject: Wakatoshi Ushijima
+canonical_name: Wakatoshi Ushijima
+aliases:
+  - Ushijima
+  - Wakatoshi Ushijima
+source_scope: Wakatoshi Ushijima personality
+characters:
+  - Wakatoshi Ushijima
+teams:
+  - Shiratorizawa Academy
+  - Schweiden Adlers
+  - Japan National Team
+topics:
+  - personality
+  - behavior
+  - motivation
+  - strengths
+  - weaknesses
+---

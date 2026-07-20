@@ -1,0 +1,21 @@
+---
+title: Osamu Miya General
+type: general
+subject: Osamu Miya
+canonical_name: Osamu Miya
+aliases:
+  - Osamu
+  - Osamu Miya
+  - Miya Osamu
+source_scope: Osamu Miya general
+characters:
+  - Osamu Miya
+teams:
+  - Inarizaki High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---

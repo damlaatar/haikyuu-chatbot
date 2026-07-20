@@ -1,0 +1,20 @@
+---
+title: Osamu Miya Background
+type: background
+subject: Osamu Miya
+canonical_name: Osamu Miya
+aliases:
+  - Osamu
+  - Osamu Miya
+  - Miya Osamu
+source_scope: Osamu Miya background
+characters:
+  - Osamu Miya
+teams:
+  - Inarizaki High
+topics:
+  - background
+  - origin
+  - past
+  - early volleyball history
+---

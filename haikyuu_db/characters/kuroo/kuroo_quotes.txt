@@ -1,0 +1,19 @@
+---
+title: Tetsuro Kuroo Quotes
+type: quotes
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo quotes
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - quotes
+  - dialogue
+  - notable lines
+---

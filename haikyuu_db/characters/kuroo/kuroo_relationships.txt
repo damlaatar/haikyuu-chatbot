@@ -1,0 +1,21 @@
+---
+title: Tetsuro Kuroo Relationships
+type: relationships
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo relationships
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - relationships
+  - teammates
+  - rivals
+  - friends
+  - family
+---

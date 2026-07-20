@@ -1,0 +1,20 @@
+---
+title: Kenma Kozume Trivia
+type: trivia
+subject: Kenma Kozume
+canonical_name: Kenma Kozume
+aliases:
+  - Kenma
+  - Kenma Kozume
+source_scope: Kenma Kozume trivia
+characters:
+  - Kenma Kozume
+teams:
+  - Nekoma High
+topics:
+  - trivia
+  - favorite food
+  - name meaning
+  - polls
+  - miscellaneous facts
+---

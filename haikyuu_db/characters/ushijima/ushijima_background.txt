@@ -1,0 +1,21 @@
+---
+title: Wakatoshi Ushijima Background
+type: background
+subject: Wakatoshi Ushijima
+canonical_name: Wakatoshi Ushijima
+aliases:
+  - Ushijima
+  - Wakatoshi Ushijima
+source_scope: Wakatoshi Ushijima background
+characters:
+  - Wakatoshi Ushijima
+teams:
+  - Shiratorizawa Academy
+  - Schweiden Adlers
+  - Japan National Team
+topics:
+  - background
+  - origin
+  - past
+  - early volleyball history
+---

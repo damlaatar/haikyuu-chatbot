@@ -1,0 +1,23 @@
+---
+title: Wakatoshi Ushijima Appearance
+type: appearance
+subject: Wakatoshi Ushijima
+canonical_name: Wakatoshi Ushijima
+aliases:
+  - Ushijima
+  - Wakatoshi Ushijima
+source_scope: Wakatoshi Ushijima appearance
+characters:
+  - Wakatoshi Ushijima
+teams:
+  - Shiratorizawa Academy
+  - Schweiden Adlers
+  - Japan National Team
+topics:
+  - appearance
+  - height
+  - hair
+  - eyes
+  - uniform
+  - post-timeskip appearance
+---

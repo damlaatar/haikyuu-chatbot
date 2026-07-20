@@ -1,0 +1,86 @@
+---
+title: Haikyuu anime season 4
+type: episode_summary
+season: 4
+source_scope: anime season 4 episode summaries
+teams:
+  - Karasuno High
+  - Shiratorizawa Academy
+  - Date Tech
+  - Tsubakihara Academy
+  - Fukurodani Academy
+  - Inarizaki High
+  - Nekoma High
+  - Sarukawa Tech High
+characters:
+  - Hinata
+  - Kageyama
+  - Tsukishima
+  - Kiyoko
+  - Bokuto
+  - Atsumu
+  - Nishinoya
+  - Tanaka
+  - Kenma
+topics:
+  - To The Top
+  - ball boy training
+  - All-Japan Youth Camp
+  - Date Tech practice match
+  - Spring Tournament
+  - Tsubakihara match
+  - Inarizaki match
+  - Nekoma match
+---
+1     "Self-Introduction"    January 10, 2020
+S4E1     As Karasuno prepares for the Spring Tournament, the team receives news that Kageyama and Tsukishima are invited to exclusive training camps. Not wanting to lose to anyone, Hinata sneaks into the camp, but must now introduce himself not as a spiker nor decoy, but as a humble ball boy.
+2     "Lost"     January 17, 2020
+S4E2     Having agreed to be the ball boy for the First Year Training Camp, Hinata quickly finds difficulty in the position as he struggles to keep up with others and is constantly under harsh criticisms. Despite the challenges, Hinata is still determined to find something at the camp that only he can do and to not underestimate what it means to be a ball boy.
+3     "Perspective"     January 24, 2020
+S4E3     While Hinata, Kageyama, and Tsukishima are gone, the Karasuno High School Volleyball Team do practice matches with Tokonami High School. Meanwhile, as the other boys are doing a practice match with the Shiratorizawa third-years, Hinata watches them play and begins to realize that all he’d ever concentrated on is chasing after the ball.
+4     "Take It Easy"     January 31, 2020
+S4E4     Thanks to Tsukishima, Hinata is able to join in the free practice and quickly impresses several others with his abilities. As he continues to observe and learn new tactics, Hinata soon tries to help a certain player who is continually struggling to keep up with everyone else.
+
+At the All-Japan Youth Camp, Kageyama finds himself targeted by several of the other players.
+5     "Hunger"     February 7, 2020
+S4E5     The last day of training camp has come. Hinata is determined to finish strong with a higher skill level and as many newly acquired techniques as possible. At his own training camp, Kageyama is enjoying playing with many highly skilled players but is showing signs of struggling from his confrontation with Atsumu.
+6     "Enhancements"     February 14, 2020
+S4E6     Now reunited, the Karasuno players begin working on strengthening themselves and their skills in preperation for Nationals and Kageyama begins assisting Hinata in trying to improve his jump. As Kageyama continues to struggle with being labeled as a Goody Two-Shoes, Karasuno faces off against Date Tech in a practice match.
+7     "Return"     February 21, 2020
+S4E7     As they continue to play against Date Tech, the Karasuno team struggles with trying new methods, facing Date Tech's improved blocking, and Kageyama's change in behavior.
+8     "Challenger"     February 28, 2020
+S4E8     The match between Karasuno and Date Tech stretches into an eighth set. With their time limited, Karasuno begins having Hinata blend into attacks in the attempt to overcome Date Tech. Meanwhile, Kinoshita finds himself aiding the team in various ways.
+9     "Everyone's Night"     March 6, 2020
+S4E9     On the first day of the New Year, Daichi is disturbed by a foreboding dream that burdens him as the time to head to the Spring Tournament draws near. The Karasuno team finally departs to Tokyo for the nationals tournament where nerves and excitement begin to arise as the players prepare for their first games and reunite with old friends.
+10     "Battle Lines"     March 13, 2020
+S4E10     A minor crisis strikes when Hinata's shoes suddenly go missing before the team's first game. Kiyoko embarks on the task of retrieving the shoes as she remembers how she first became the manager of the team and the bonds that have been formed. Karasuno faces Tsubakihara Academy in their first game and another crisis takes place when Kageyama seems to be off his game.
+11     "A Chance to Connect"     March 20, 2020
+S4E11     With Kageyama back on track, Karasuno begins to power through the rest of the set and show they are not to be underestimated. At the same time, the Tsubakihara team starts doing all they can to ensure that they did not come to the Spring Tournament as mere participants.
+12     "Vivid"     March 27, 2020
+S4E12     Karasuno has won their match and are advancing to the second round of the Spring Tournament. The Fukurōdani team hit a snag in their game when Bokuto falls into a depressed state and Akaashi does what he can to bring the ace back to top form.
+13     "The Second Day"     April 3, 2020
+S4E13     Karasuno prepares for their first match in the second round against the team that is second favorite to win the tournament, Inarizaki High and their team of unique players.
+14     "Rhythm"     October 2, 2020
+S4E14     Inarizaki begins building pressure on Karasuno with the help of the famous Inarizaki cheering squad using music and timing to throw their opponents off balance. Karasuno begins to feel the affects of Inarizaki's methods until help arrives in the form of a familiar face.
+15     "Found"     October 9, 2020
+S4EP15     With the Miya twins successfully copying the freak quick attack, Inarizaki begins to take the lead. As Karasuno struggles to find ways to stop them, Hinata is given an important task with the hope of allowing Karasuno to gain control of the game.
+16     "Broken Heart"     October 16, 2020
+S4E16     As Karasuno inches closer to taking the first set, Tanaka begins to falter in his play when he is repeatedly blocked, denied sets, and unable to perform a cross shot.
+17     "Cats vs. Monkeys"     October 23, 2020
+S4E17     In the second round of the Spring Tournament, Nekoma faces Sarukawa Tech High for the chance to advance to the third round. With Sarukawa and Nekoma both being masters of defense, it becomes apparent that Sarukawa's real plan is not to quickly rack up points but to instead get Kenma to exhaust himself.
+18     "Trap"     October 30, 2020
+S4E18     Now in the second set, Kenma continues to be made to run about and further tire himself. As Sarukawa Tech continues to build pressure with their tenacious plays and believing they have manipulated the Nekoma team to play how they want, signs begin to show that Sarukawa Tech may not actually be in control of the game.
+19     "The Ultimate Challengers"     November 6, 2020
+S4E19     In the continuation of the match between Karasuno and Inarizaki, Nishinoya starts to struggle as he is repeatedly targeted by Atsumu's serves. As Inarizaki continues to widen the gap with their variety of attacks, Karasuno begins to target one of Inarizaki's players with the hope of turning things around.
+20     "Leader"     November 13, 2020
+S4E20     Team captain Shinsuke Kita is sent into the match and Inarizaki's plays immediately take a new atmosphere that continues to put Karasuno in a difficult situation.
+21     "Hero"     November 20, 2020
+S4E21     Karasuno continues to hold the lead in the score as Suna and Tsukishima begin to form a rivalry. Nishinoya finally admits to the team that he is scared of Atsumu's serves and Aran's history with the Miya twins is revealed.
+22     "Pitons"     November 27, 2020
+S4E22     Inarizaki begins to take the set back with unexpected and powerful attacks, with each play continuing to chip away at the spirits of the Karasuno team. When all begins to seem hopeless, a miraculous play made by the last person they expected brings a new wave of hope.
+23     "The Birth of the Serene King"     December 4, 2020
+S4EP23     The match between Karasuno and Inarizaki is nearing the end. Each team continues to fight for the winning point with surprising methods and fierce determination.
+24     "Monsters' Ball"     December 11, 2020
+S4E24     The grueling match between Karasuno and Inarizaki comes to a conclusion as one team finally emerges victorious and moves onto the third round of the Spring Tournament.
+25     "The Promised Land"     December 18, 2020
+S4E25     Karasuno has claimed victory and will be advancing to the third round of the Spring Tournament. Emotions are on display from all teams as some are eliminated from the tournament while others prepare for their next battle.

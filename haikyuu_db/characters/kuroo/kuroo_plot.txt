@@ -1,0 +1,21 @@
+---
+title: Tetsuro Kuroo Plot
+type: plot
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo plot
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - plot
+  - story arcs
+  - chronological events
+  - matches
+  - character development
+---

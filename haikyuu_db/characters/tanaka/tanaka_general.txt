@@ -1,0 +1,27 @@
+---
+title: Ryunosuke Tanaka General
+type: general
+subject: Ryunosuke Tanaka
+canonical_name: Ryūnosuke Tanaka
+aliases:
+  - Tanaka
+  - Ryūnosuke Tanaka
+  - Ryuunosuke Tanaka
+source_scope: Ryūnosuke Tanaka character profile and general information
+characters:
+  - Ryūnosuke Tanaka
+  - Tanaka
+  - Kiyoko Shimizu
+  - Kiyoko
+teams:
+  - Karasuno High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---
+Ryūnosuke Tanaka (Japanese: 田中 龍之介 Tanaka Ryūnosuke) for the majority of the series is a second-year student at Karasuno High. He is part of the Boys' Volleyball Club and plays as a starting wing spiker. Tanaka was known as the team's up-and-coming ace.
+
+After graduating high school, he became a personal trainer and married Kiyoko Shimizu.

@@ -1,0 +1,24 @@
+---
+title: Daichi Sawamura General
+type: general
+subject: Daichi Sawamura
+canonical_name: Daichi Sawamura
+aliases:
+  - Daichi
+  - Daichi Sawamura
+source_scope: Daichi Sawamura character profile and general information
+characters:
+  - Daichi Sawamura
+  - Daichi
+teams:
+  - Karasuno High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---
+Daichi Sawamura (Japanese: 澤村 大地 Sawamura Daichi) was a third-year student at Karasuno High. He was the captain and a starting wing spiker for the Boys' Volleyball Team. During the period when the original coach, Ikkei Ukai, was hospitalized, he was one of the captains who had to act as the team's coach.
+
+As of 2018, he is currently part of the Miyagi Prefectural Police in the Community Safety Division.

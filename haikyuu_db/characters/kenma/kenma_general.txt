@@ -1,0 +1,20 @@
+---
+title: Kenma Kozume General
+type: general
+subject: Kenma Kozume
+canonical_name: Kenma Kozume
+aliases:
+  - Kenma
+  - Kenma Kozume
+source_scope: Kenma Kozume general
+characters:
+  - Kenma Kozume
+teams:
+  - Nekoma High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---

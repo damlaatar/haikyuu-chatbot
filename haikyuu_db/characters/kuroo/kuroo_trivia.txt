@@ -1,0 +1,21 @@
+---
+title: Tetsuro Kuroo Trivia
+type: trivia
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo trivia
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - trivia
+  - favorite food
+  - name meaning
+  - polls
+  - miscellaneous facts
+---

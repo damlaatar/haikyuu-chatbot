@@ -1,0 +1,20 @@
+---
+title: Kenma Kozume Relationships
+type: relationships
+subject: Kenma Kozume
+canonical_name: Kenma Kozume
+aliases:
+  - Kenma
+  - Kenma Kozume
+source_scope: Kenma Kozume relationships
+characters:
+  - Kenma Kozume
+teams:
+  - Nekoma High
+topics:
+  - relationships
+  - teammates
+  - rivals
+  - friends
+  - family
+---

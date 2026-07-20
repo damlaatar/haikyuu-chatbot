@@ -1,0 +1,21 @@
+---
+title: Kenma Kozume Appearance
+type: appearance
+subject: Kenma Kozume
+canonical_name: Kenma Kozume
+aliases:
+  - Kenma
+  - Kenma Kozume
+source_scope: Kenma Kozume appearance
+characters:
+  - Kenma Kozume
+teams:
+  - Nekoma High
+topics:
+  - appearance
+  - height
+  - hair
+  - eyes
+  - uniform
+  - post-timeskip appearance
+---

@@ -1,0 +1,22 @@
+---
+title: Hajime Iwaizumi Relationships
+type: relationships
+subject: Hajime Iwaizumi
+canonical_name: Hajime Iwaizumi
+aliases:
+  - Iwaizumi
+  - Hajime Iwaizumi
+  - Iwa-chan
+source_scope: Hajime Iwaizumi relationships
+characters:
+  - Hajime Iwaizumi
+teams:
+  - Aoba Johsai High
+  - Japan National Team
+topics:
+  - relationships
+  - teammates
+  - rivals
+  - friends
+  - family
+---

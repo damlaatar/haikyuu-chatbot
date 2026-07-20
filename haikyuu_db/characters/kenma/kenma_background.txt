@@ -1,0 +1,19 @@
+---
+title: Kenma Kozume Background
+type: background
+subject: Kenma Kozume
+canonical_name: Kenma Kozume
+aliases:
+  - Kenma
+  - Kenma Kozume
+source_scope: Kenma Kozume background
+characters:
+  - Kenma Kozume
+teams:
+  - Nekoma High
+topics:
+  - background
+  - origin
+  - past
+  - early volleyball history
+---

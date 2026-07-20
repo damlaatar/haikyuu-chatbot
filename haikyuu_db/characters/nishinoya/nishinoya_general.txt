@@ -1,0 +1,25 @@
+---
+title: Yu Nishinoya General
+type: general
+subject: Yu Nishinoya
+canonical_name: Yū Nishinoya
+aliases:
+  - Nishinoya
+  - Yū Nishinoya
+  - Guardian Deity
+source_scope: Yū Nishinoya character profile and general information
+characters:
+  - Yū Nishinoya
+  - Nishinoya
+teams:
+  - Karasuno High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---
+Yū Nishinoya (Japanese: 西谷 夕 Nishinoya Yū) was a second-year student at Karasuno High. He was the libero for the boys' volleyball team and was referred to as "Karasuno's Guardian Deity" by his teammates, for his remarkable skills.
+
+After high school, Nishinoya retired from volleyball in favor of traveling the world.

@@ -1,0 +1,20 @@
+---
+title: Tetsuro Kuroo Background
+type: background
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo background
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - background
+  - origin
+  - past
+  - early volleyball history
+---

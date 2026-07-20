@@ -1,0 +1,22 @@
+---
+title: Atsumu Miya Relationships
+type: relationships
+subject: Atsumu Miya
+canonical_name: Atsumu Miya
+aliases:
+  - Atsumu
+  - Atsumu Miya
+  - Miya Atsumu
+source_scope: Atsumu Miya relationships
+characters:
+  - Atsumu Miya
+teams:
+  - Inarizaki High
+  - MSBY Black Jackals
+topics:
+  - relationships
+  - teammates
+  - rivals
+  - friends
+  - family
+---

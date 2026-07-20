@@ -1,0 +1,20 @@
+---
+title: Hajime Iwaizumi Quotes
+type: quotes
+subject: Hajime Iwaizumi
+canonical_name: Hajime Iwaizumi
+aliases:
+  - Iwaizumi
+  - Hajime Iwaizumi
+  - Iwa-chan
+source_scope: Hajime Iwaizumi quotes
+characters:
+  - Hajime Iwaizumi
+teams:
+  - Aoba Johsai High
+  - Japan National Team
+topics:
+  - quotes
+  - dialogue
+  - notable lines
+---

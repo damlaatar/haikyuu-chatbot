@@ -1,0 +1,21 @@
+---
+title: Hajime Iwaizumi Background
+type: background
+subject: Hajime Iwaizumi
+canonical_name: Hajime Iwaizumi
+aliases:
+  - Iwaizumi
+  - Hajime Iwaizumi
+  - Iwa-chan
+source_scope: Hajime Iwaizumi background
+characters:
+  - Hajime Iwaizumi
+teams:
+  - Aoba Johsai High
+  - Japan National Team
+topics:
+  - background
+  - origin
+  - past
+  - early volleyball history
+---

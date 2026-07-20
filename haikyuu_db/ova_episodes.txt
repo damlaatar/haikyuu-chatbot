@@ -1,0 +1,36 @@
+---
+title: Haikyuu anime OVAs
+type: episode_summary
+season: none
+source_scope: Haikyuu original video animation episode summaries
+teams:
+  - Nekoma High
+  - Karasuno High
+  - Aoba Johsai High
+  - Fukurodani Academy
+  - Nohebi Academy
+characters:
+  - Lev Haiba
+  - Kenma Kozume
+  - Kuroo
+  - Hinata
+  - Kageyama
+  - Yaku
+topics:
+  - The Arrival of Haiba Lev
+  - failing grades
+  - Spring High qualifiers
+  - Land VS Air
+  - The Path of the Ball
+---
+1     "The Arrival of Haiba Lev"    March 4, 2015
+Lev Kuroo OVA 1     Lev Haiba, a half-Russian student, is the new addition to the Nekoma volleyball team. However, due to his inexperience and free-spirited nature, Kenma and the rest must learn to sync up with their new member.
+2     "VS 'Failing Grades'"     May 2, 2016
+OVA2 04     Karasuno is preparing for the summer training camp in Tokyo, but their main members are at risk of taking catch-up classes for failing their exams. The team now must band together to help said members pass their make-up exams and avoid summer classes.
+
+3     "Special Feature! Betting on the Spring High Volleyball"     August 4, 2017
+Seijoh OVA3 01     A recap of the Miyagi Prefecture Spring Interhigh Qualifers in the form of a news program. It goes behind the scenes to follow various participating teams and includes exclusive interviews with notable players.
+4     "Land VS Air"     January 22, 2020
+Fukurodani OVA 4-1     Nekoma faces off against their friend and rival, Fukurōdani, in the Tokyo Prefecture Spring Interhigh Qualifiers. The two teams are formidable opponents due to their familiarity with each others' strengths and weaknesses. Along the way, they must resolve issues within their own team in order to grasp victory and advance one step closer to the Spring Interhigh.
+5     "The Path of the Ball"     January 22, 2020
+Lev and Shibiyama OVA 5-1     After losing to Fukurōdani, Nekoma's last chance to the Spring Interhigh lies in a victory against a tricky opponent, Nohebi. Nohebi is a team not afraid to use underhanded methods to gain an advantage. Even worse, Nekoma loses their reliable libero Yaku to a mid-game injury. The rest of the team must step up to fill in the big hole.

@@ -1,0 +1,21 @@
+---
+title: Tetsuro Kuroo Personality
+type: personality
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo personality
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - personality
+  - behavior
+  - motivation
+  - strengths
+  - weaknesses
+---

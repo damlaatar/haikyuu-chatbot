@@ -1,0 +1,27 @@
+---
+title: Koshi Sugawara Appearance
+type: appearance
+subject: Koshi Sugawara
+canonical_name: Kōshi Sugawara
+aliases:
+  - Sugawara
+  - Kōshi Sugawara
+  - Koshi Sugawara
+  - Suga
+source_scope: Kōshi Sugawara character appearance and visual description
+characters:
+  - Kōshi Sugawara
+  - Sugawara
+teams:
+  - Karasuno High
+topics:
+  - appearance
+  - height
+  - hair
+  - eyes
+  - uniform
+  - post-timeskip appearance
+---
+Sugawara is shown to be average in height with a slender build. He has slightly thick eyebrows, light grey hair, and hazel-brown eyes with a birthmark mole under his left eye. He is usually seen with a gentle smile on his face.
+
+Post-timeskip, Sugawara mainly appears the same although his hair is slightly longer.

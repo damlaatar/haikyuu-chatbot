@@ -1,0 +1,26 @@
+---
+title: Koshi Sugawara General
+type: general
+subject: Koshi Sugawara
+canonical_name: Kōshi Sugawara
+aliases:
+  - Sugawara
+  - Kōshi Sugawara
+  - Koshi Sugawara
+  - Suga
+source_scope: Kōshi Sugawara character profile and general information
+characters:
+  - Kōshi Sugawara
+  - Sugawara
+teams:
+  - Karasuno High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---
+Kōshi Sugawara (Japanese: 菅原 孝支 Sugawara Kōshi) was a third-year student at Karasuno High. He was the vice captain, a substitute setter, and pinch server for the Boys' Volleyball Team.
+
+As of 2018, he is an elementary school teacher in Miyagi.

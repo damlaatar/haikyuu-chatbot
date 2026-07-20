@@ -1,0 +1,22 @@
+---
+title: Hajime Iwaizumi Stats
+type: stats
+subject: Hajime Iwaizumi
+canonical_name: Hajime Iwaizumi
+aliases:
+  - Iwaizumi
+  - Hajime Iwaizumi
+  - Iwa-chan
+source_scope: Hajime Iwaizumi stats
+characters:
+  - Hajime Iwaizumi
+teams:
+  - Aoba Johsai High
+  - Japan National Team
+topics:
+  - statistics
+  - skills
+  - abilities
+  - physical parameters
+  - volleyball techniques
+---

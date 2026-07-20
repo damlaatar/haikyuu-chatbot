@@ -1,0 +1,20 @@
+---
+title: Wakatoshi Ushijima Quotes
+type: quotes
+subject: Wakatoshi Ushijima
+canonical_name: Wakatoshi Ushijima
+aliases:
+  - Ushijima
+  - Wakatoshi Ushijima
+source_scope: Wakatoshi Ushijima quotes
+characters:
+  - Wakatoshi Ushijima
+teams:
+  - Shiratorizawa Academy
+  - Schweiden Adlers
+  - Japan National Team
+topics:
+  - quotes
+  - dialogue
+  - notable lines
+---

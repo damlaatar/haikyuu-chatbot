@@ -1,0 +1,22 @@
+---
+title: Atsumu Miya Plot
+type: plot
+subject: Atsumu Miya
+canonical_name: Atsumu Miya
+aliases:
+  - Atsumu
+  - Atsumu Miya
+  - Miya Atsumu
+source_scope: Atsumu Miya plot
+characters:
+  - Atsumu Miya
+teams:
+  - Inarizaki High
+  - MSBY Black Jackals
+topics:
+  - plot
+  - story arcs
+  - chronological events
+  - matches
+  - character development
+---

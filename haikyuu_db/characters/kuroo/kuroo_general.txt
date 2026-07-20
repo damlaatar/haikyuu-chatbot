@@ -1,0 +1,21 @@
+---
+title: Tetsuro Kuroo General
+type: general
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo general
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---

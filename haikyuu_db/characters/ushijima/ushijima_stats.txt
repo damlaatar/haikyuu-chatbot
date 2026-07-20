@@ -1,0 +1,22 @@
+---
+title: Wakatoshi Ushijima Stats
+type: stats
+subject: Wakatoshi Ushijima
+canonical_name: Wakatoshi Ushijima
+aliases:
+  - Ushijima
+  - Wakatoshi Ushijima
+source_scope: Wakatoshi Ushijima stats
+characters:
+  - Wakatoshi Ushijima
+teams:
+  - Shiratorizawa Academy
+  - Schweiden Adlers
+  - Japan National Team
+topics:
+  - statistics
+  - skills
+  - abilities
+  - physical parameters
+  - volleyball techniques
+---

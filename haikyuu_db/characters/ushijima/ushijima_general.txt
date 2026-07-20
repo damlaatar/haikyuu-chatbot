@@ -1,0 +1,22 @@
+---
+title: Wakatoshi Ushijima General
+type: general
+subject: Wakatoshi Ushijima
+canonical_name: Wakatoshi Ushijima
+aliases:
+  - Ushijima
+  - Wakatoshi Ushijima
+source_scope: Wakatoshi Ushijima general
+characters:
+  - Wakatoshi Ushijima
+teams:
+  - Shiratorizawa Academy
+  - Schweiden Adlers
+  - Japan National Team
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---

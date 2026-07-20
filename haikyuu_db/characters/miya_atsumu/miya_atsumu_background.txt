@@ -1,0 +1,21 @@
+---
+title: Atsumu Miya Background
+type: background
+subject: Atsumu Miya
+canonical_name: Atsumu Miya
+aliases:
+  - Atsumu
+  - Atsumu Miya
+  - Miya Atsumu
+source_scope: Atsumu Miya background
+characters:
+  - Atsumu Miya
+teams:
+  - Inarizaki High
+  - MSBY Black Jackals
+topics:
+  - background
+  - origin
+  - past
+  - early volleyball history
+---

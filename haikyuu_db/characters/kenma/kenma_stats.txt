@@ -1,0 +1,20 @@
+---
+title: Kenma Kozume Stats
+type: stats
+subject: Kenma Kozume
+canonical_name: Kenma Kozume
+aliases:
+  - Kenma
+  - Kenma Kozume
+source_scope: Kenma Kozume stats
+characters:
+  - Kenma Kozume
+teams:
+  - Nekoma High
+topics:
+  - statistics
+  - skills
+  - abilities
+  - physical parameters
+  - volleyball techniques
+---

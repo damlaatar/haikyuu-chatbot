@@ -1,0 +1,23 @@
+---
+title: Atsumu Miya Appearance
+type: appearance
+subject: Atsumu Miya
+canonical_name: Atsumu Miya
+aliases:
+  - Atsumu
+  - Atsumu Miya
+  - Miya Atsumu
+source_scope: Atsumu Miya appearance
+characters:
+  - Atsumu Miya
+teams:
+  - Inarizaki High
+  - MSBY Black Jackals
+topics:
+  - appearance
+  - height
+  - hair
+  - eyes
+  - uniform
+  - post-timeskip appearance
+---

@@ -1,0 +1,22 @@
+---
+title: Osamu Miya Appearance
+type: appearance
+subject: Osamu Miya
+canonical_name: Osamu Miya
+aliases:
+  - Osamu
+  - Osamu Miya
+  - Miya Osamu
+source_scope: Osamu Miya appearance
+characters:
+  - Osamu Miya
+teams:
+  - Inarizaki High
+topics:
+  - appearance
+  - height
+  - hair
+  - eyes
+  - uniform
+  - post-timeskip appearance
+---

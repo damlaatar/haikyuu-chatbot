@@ -1,0 +1,22 @@
+---
+title: Atsumu Miya Stats
+type: stats
+subject: Atsumu Miya
+canonical_name: Atsumu Miya
+aliases:
+  - Atsumu
+  - Atsumu Miya
+  - Miya Atsumu
+source_scope: Atsumu Miya stats
+characters:
+  - Atsumu Miya
+teams:
+  - Inarizaki High
+  - MSBY Black Jackals
+topics:
+  - statistics
+  - skills
+  - abilities
+  - physical parameters
+  - volleyball techniques
+---

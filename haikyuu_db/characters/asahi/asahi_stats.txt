@@ -1,0 +1,21 @@
+---
+title: Asahi Azumane Stats
+type: stats
+subject: Asahi Azumane
+canonical_name: Asahi Azumane
+aliases:
+  - Asahi
+  - Asahi Azumane
+  - Karasuno Ace
+source_scope: Asahi Azumane stats
+characters:
+  - Asahi Azumane
+teams:
+  - Karasuno High
+topics:
+  - statistics
+  - skills
+  - abilities
+  - physical parameters
+  - volleyball techniques
+---

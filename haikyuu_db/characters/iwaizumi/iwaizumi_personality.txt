@@ -1,0 +1,22 @@
+---
+title: Hajime Iwaizumi Personality
+type: personality
+subject: Hajime Iwaizumi
+canonical_name: Hajime Iwaizumi
+aliases:
+  - Iwaizumi
+  - Hajime Iwaizumi
+  - Iwa-chan
+source_scope: Hajime Iwaizumi personality
+characters:
+  - Hajime Iwaizumi
+teams:
+  - Aoba Johsai High
+  - Japan National Team
+topics:
+  - personality
+  - behavior
+  - motivation
+  - strengths
+  - weaknesses
+---

@@ -1,0 +1,22 @@
+---
+title: Hajime Iwaizumi Plot
+type: plot
+subject: Hajime Iwaizumi
+canonical_name: Hajime Iwaizumi
+aliases:
+  - Iwaizumi
+  - Hajime Iwaizumi
+  - Iwa-chan
+source_scope: Hajime Iwaizumi plot
+characters:
+  - Hajime Iwaizumi
+teams:
+  - Aoba Johsai High
+  - Japan National Team
+topics:
+  - plot
+  - story arcs
+  - chronological events
+  - matches
+  - character development
+---

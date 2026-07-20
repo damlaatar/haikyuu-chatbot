@@ -1,0 +1,28 @@
+---
+title: Kei Tsukishima General
+type: general
+subject: Kei Tsukishima
+canonical_name: Kei Tsukishima
+aliases:
+  - Tsukishima
+  - Kei Tsukishima
+  - Tsukki
+source_scope: Kei Tsukishima character profile and general information
+characters:
+  - Kei Tsukishima
+  - Tsukishima
+teams:
+  - Karasuno High
+  - Sendai Frogs
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---
+Kei Tsukishima (Japanese: 月島 蛍 Tsukishima Kei) is a first-year at Karasuno High. He plays as one of the starting middle blockers on the boys' volleyball team.
+
+He is currently a college student as well as a middle blocker for the Sendai Frogs, a Division 2 team in the V League, and will start work at the Sendai City Museum after graduating college.
+
+He is the younger brother of Akiteru Tsukishima.

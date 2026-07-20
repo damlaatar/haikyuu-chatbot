@@ -1,0 +1,22 @@
+---
+title: Hajime Iwaizumi General
+type: general
+subject: Hajime Iwaizumi
+canonical_name: Hajime Iwaizumi
+aliases:
+  - Iwaizumi
+  - Hajime Iwaizumi
+  - Iwa-chan
+source_scope: Hajime Iwaizumi general
+characters:
+  - Hajime Iwaizumi
+teams:
+  - Aoba Johsai High
+  - Japan National Team
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---

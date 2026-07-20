@@ -1,0 +1,20 @@
+---
+title: Atsumu Miya Quotes
+type: quotes
+subject: Atsumu Miya
+canonical_name: Atsumu Miya
+aliases:
+  - Atsumu
+  - Atsumu Miya
+  - Miya Atsumu
+source_scope: Atsumu Miya quotes
+characters:
+  - Atsumu Miya
+teams:
+  - Inarizaki High
+  - MSBY Black Jackals
+topics:
+  - quotes
+  - dialogue
+  - notable lines
+---

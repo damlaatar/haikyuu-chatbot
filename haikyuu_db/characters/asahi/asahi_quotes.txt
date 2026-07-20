@@ -1,0 +1,19 @@
+---
+title: Asahi Azumane Quotes
+type: quotes
+subject: Asahi Azumane
+canonical_name: Asahi Azumane
+aliases:
+  - Asahi
+  - Asahi Azumane
+  - Karasuno Ace
+source_scope: Asahi Azumane quotes
+characters:
+  - Asahi Azumane
+teams:
+  - Karasuno High
+topics:
+  - quotes
+  - dialogue
+  - notable lines
+---

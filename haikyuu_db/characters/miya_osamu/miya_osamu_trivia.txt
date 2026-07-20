@@ -1,0 +1,21 @@
+---
+title: Osamu Miya Trivia
+type: trivia
+subject: Osamu Miya
+canonical_name: Osamu Miya
+aliases:
+  - Osamu
+  - Osamu Miya
+  - Miya Osamu
+source_scope: Osamu Miya trivia
+characters:
+  - Osamu Miya
+teams:
+  - Inarizaki High
+topics:
+  - trivia
+  - favorite food
+  - name meaning
+  - polls
+  - miscellaneous facts
+---

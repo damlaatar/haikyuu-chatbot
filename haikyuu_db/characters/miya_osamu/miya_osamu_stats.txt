@@ -1,0 +1,21 @@
+---
+title: Osamu Miya Stats
+type: stats
+subject: Osamu Miya
+canonical_name: Osamu Miya
+aliases:
+  - Osamu
+  - Osamu Miya
+  - Miya Osamu
+source_scope: Osamu Miya stats
+characters:
+  - Osamu Miya
+teams:
+  - Inarizaki High
+topics:
+  - statistics
+  - skills
+  - abilities
+  - physical parameters
+  - volleyball techniques
+---

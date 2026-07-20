@@ -1,0 +1,22 @@
+---
+title: Atsumu Miya Personality
+type: personality
+subject: Atsumu Miya
+canonical_name: Atsumu Miya
+aliases:
+  - Atsumu
+  - Atsumu Miya
+  - Miya Atsumu
+source_scope: Atsumu Miya personality
+characters:
+  - Atsumu Miya
+teams:
+  - Inarizaki High
+  - MSBY Black Jackals
+topics:
+  - personality
+  - behavior
+  - motivation
+  - strengths
+  - weaknesses
+---

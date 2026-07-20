@@ -1,0 +1,21 @@
+---
+title: Asahi Azumane General
+type: general
+subject: Asahi Azumane
+canonical_name: Asahi Azumane
+aliases:
+  - Asahi
+  - Asahi Azumane
+  - Karasuno Ace
+source_scope: Asahi Azumane general
+characters:
+  - Asahi Azumane
+teams:
+  - Karasuno High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---

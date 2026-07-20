@@ -1,0 +1,21 @@
+---
+title: Tetsuro Kuroo Stats
+type: stats
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo stats
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - statistics
+  - skills
+  - abilities
+  - physical parameters
+  - volleyball techniques
+---

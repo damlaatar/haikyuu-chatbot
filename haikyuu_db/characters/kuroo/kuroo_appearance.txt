@@ -1,0 +1,22 @@
+---
+title: Tetsuro Kuroo Appearance
+type: appearance
+subject: Tetsuro Kuroo
+canonical_name: Tetsurō Kuroo
+aliases:
+  - Kuroo
+  - Tetsurō Kuroo
+  - Tetsuro Kuroo
+source_scope: Tetsurō Kuroo appearance
+characters:
+  - Tetsurō Kuroo
+teams:
+  - Nekoma High
+topics:
+  - appearance
+  - height
+  - hair
+  - eyes
+  - uniform
+  - post-timeskip appearance
+---

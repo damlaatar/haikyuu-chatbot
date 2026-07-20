@@ -1,0 +1,18 @@
+---
+title: Kenma Kozume Quotes
+type: quotes
+subject: Kenma Kozume
+canonical_name: Kenma Kozume
+aliases:
+  - Kenma
+  - Kenma Kozume
+source_scope: Kenma Kozume quotes
+characters:
+  - Kenma Kozume
+teams:
+  - Nekoma High
+topics:
+  - quotes
+  - dialogue
+  - notable lines
+---

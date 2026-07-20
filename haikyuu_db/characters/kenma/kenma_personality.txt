@@ -1,0 +1,20 @@
+---
+title: Kenma Kozume Personality
+type: personality
+subject: Kenma Kozume
+canonical_name: Kenma Kozume
+aliases:
+  - Kenma
+  - Kenma Kozume
+source_scope: Kenma Kozume personality
+characters:
+  - Kenma Kozume
+teams:
+  - Nekoma High
+topics:
+  - personality
+  - behavior
+  - motivation
+  - strengths
+  - weaknesses
+---

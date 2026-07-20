@@ -1,0 +1,20 @@
+---
+title: Asahi Azumane Background
+type: background
+subject: Asahi Azumane
+canonical_name: Asahi Azumane
+aliases:
+  - Asahi
+  - Asahi Azumane
+  - Karasuno Ace
+source_scope: Asahi Azumane background
+characters:
+  - Asahi Azumane
+teams:
+  - Karasuno High
+topics:
+  - background
+  - origin
+  - past
+  - early volleyball history
+---

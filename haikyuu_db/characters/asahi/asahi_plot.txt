@@ -1,0 +1,21 @@
+---
+title: Asahi Azumane Plot
+type: plot
+subject: Asahi Azumane
+canonical_name: Asahi Azumane
+aliases:
+  - Asahi
+  - Asahi Azumane
+  - Karasuno Ace
+source_scope: Asahi Azumane plot
+characters:
+  - Asahi Azumane
+teams:
+  - Karasuno High
+topics:
+  - plot
+  - story arcs
+  - chronological events
+  - matches
+  - character development
+---

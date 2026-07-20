@@ -1,0 +1,24 @@
+---
+title: Tadashi Yamaguchi General
+type: general
+subject: Tadashi Yamaguchi
+canonical_name: Tadashi Yamaguchi
+aliases:
+  - Yamaguchi
+  - Tadashi Yamaguchi
+source_scope: Tadashi Yamaguchi character profile and general information
+characters:
+  - Tadashi Yamaguchi
+  - Yamaguchi
+teams:
+  - Karasuno High
+topics:
+  - character profile
+  - biography
+  - teams
+  - positions
+  - basic information
+---
+Tadashi Yamaguchi (Japanese: 山口 忠 Yamaguchi Tadashi) was a first-year student at Karasuno High. He was a middle blocker and pinch server for the Boys' Volleyball Team. During his third-year, he became the team captain.
+
+He is currently a college student and is planning to work for a home electronics company in Miyagi once he graduates.

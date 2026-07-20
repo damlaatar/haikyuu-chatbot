@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Model, index, and generated cache artifacts
+haikyuu_chroma/
+unsloth_compiled_cache/
+llama_lora/
+llama_finetune*/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.gguf
+
+# Frontend
+haikyuu_chat_ui/node_modules/
+haikyuu_chat_ui/dist/
+haikyuu_chat_ui/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Root lockfile accidentally created outside the UI package
+/package-lock.json
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

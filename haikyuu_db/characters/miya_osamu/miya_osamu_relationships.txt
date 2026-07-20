@@ -1,0 +1,21 @@
+---
+title: Osamu Miya Relationships
+type: relationships
+subject: Osamu Miya
+canonical_name: Osamu Miya
+aliases:
+  - Osamu
+  - Osamu Miya
+  - Miya Osamu
+source_scope: Osamu Miya relationships
+characters:
+  - Osamu Miya
+teams:
+  - Inarizaki High
+topics:
+  - relationships
+  - teammates
+  - rivals
+  - friends
+  - family
+---
